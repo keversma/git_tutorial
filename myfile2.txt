@@ -1,8 +1,5 @@
 Some other stuff in another file. 
 
-I am writting.  Plants are cool.  
-I like plants.  I heart plants.  
-
 I wish I could get a haircut.  :(
 
 Let the "git" puns begin!
